@@ -1,0 +1,8 @@
+- Armitage is a free Java based GUI front end for the Metasploit framework developed by Raphael Mudge and is used to simplify network discovery, exploitation and post exploitation.
+- Armitage provides you with the following functionality
+	- Visualizes targets
+	- Automate port scanning
+	- Automate exploitation
+	- Automate post exploitation
+- Armitage requires the metasploit framework database and the metasploit backend services to be enabled and running in order to function correctly.
+- Armitage comes pre packaged with Kali Linux and other penetration testing distributions.
