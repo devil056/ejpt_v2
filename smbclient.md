@@ -24,3 +24,10 @@ Usage: smbclient [-?EgqBVNkPeC] [-?|--help] [--usage]
 ```
 smbclient -L <target-ip> -N
 ```
+
+connecting to the smbshare as a user:
+
+```
+smbclient \\\\{target_IP}\\{folder}
+```
+

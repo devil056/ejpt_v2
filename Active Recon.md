@@ -174,12 +174,9 @@ xss.zonetransfer.me.                     300      IN    TXT      "'><script>aler
                                                                                                                                                                                                                                             
 Brute forcing with /usr/share/dnsenum/dns.txt:                                                                                                                                                                                              
 _______________________________________________                                                                                                                                                                                             
-                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                            
 zonetransfer.me class C netranges:                                                                                                                                                                                                          
 ___________________________________                                                                                                                                                                                                         
-                                                                                                                                                                                                                                            
+  
  4.23.39.0/24                                                                                                                                                                                                                               
  5.196.105.0/24
  52.91.28.0/24
@@ -191,7 +188,6 @@ ___________________________________
  202.14.81.0/24
  207.46.197.0/24
 
-                                                                                                                                                                                                                                            
 Performing reverse lookup on 2560 ip addresses:                                                                                                                                                                                             
 ________________________________________________                                                                                                                                                                                     
 ```
