@@ -1,0 +1,11 @@
+The initial stages of the pentest will be the same. We need to find the IP address of the target in this case the target IP would be the adjacent IP to our current IP address.
+- Once we found the target IP perform an initial nmap scan
+- In this case we can see that the target is running a HTTP and mysql services
+- Try to launch a browser and see the page that is being hosted on port 80
+- In this case we can see that we need to login to access the content
+- And the basic folder is the once from where the authorization is performed
+- Turn on the burp suite and enable the foxy proxy
+- And once we are able to capture the request send the request to the intruder so we can modify it
+- Set the parameter and add the passwords list to the attack
+- Once the encoding and the request are set in place we can start the attack
+- Based the response codes we can see the correct password
